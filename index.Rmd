@@ -2,6 +2,20 @@
 title: "About Me"
 ---
 
-Hello, Website!
+<center><img src="DSC_0548.jpg" alt="Toria Davenport">
 
-[linkedin](www.linkedin.com/in/toria-davenport-3b529715a)
+Hello!
+
+My name is Toria Davenport, and I am a junior Psychology major at Appalachian State University with a concentration in human services and minors in statistics and social work. I aspire to get my master's degree in Clinical Mental Health Counseling and work as a behavioral techniction until I can become a Licensed Professional Counselor. 
+
+In general, my research interests include psychotherapy outcome and processes, child and adoloscent psychopathology, neurological bases of psychotherapy and psychopathology, and more. I hope that I can also use advanced data analysis methods to score assessments/evaluations and also for general research purposes. </center>
+
+------
+
+#####Contact Information
+
+Email: davenporttr@appstate.edu
+
+[Linkedin](www.linkedin.com/in/toria-davenport-3b529715a)
+
+Skype: toria_132

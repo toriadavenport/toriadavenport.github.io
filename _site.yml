@@ -6,8 +6,8 @@ navbar:
   right:
     - text: "Resume"
       href: resume.html
-    - text: "Pagetitle"
-      href: pagename.html
+    - text: "Relevant Research"
+      href: research.html
 
 output:
   html_document:
