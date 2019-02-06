@@ -2,4 +2,97 @@
 title: "Toria Davenport's Resume"
 ---
 
-Resume content.
+<center> <h3> Education </h3> </center>
+
+<h4> Appalachian State University </h4>  
+
+*Boone, NC* | *Fall 2017-May 2021*
+
+**Bachelor of Sciences, Psychology**- Human Services
+
+**Minors**: Statistics, Social Work
+
+##### Scholarships and Honors:
+
++ Academic Excellence Scholarship
+
++ University Honors College
+
++ Departmental Honors
+
+<center> <h3> Internships and Volunteer Jobs </h3> </center>
+
+<center> These experiences are specifically relevant to my interest in child and adolescent Clinical Mental Health Therapy </center>
+
+<h4> Classroom Assistant, Anyonce Can Dance!- Boone, NC </h4>
+
+##### January 2019- Present
+
++ Volunteered in a non-profit dance studio that provided classes to those who typically could not afford them
+
++ Assisted in teaching a classroom of children aged 6-10 
+
+<h4> Classroom Assistant, The Children's Center- Winston-Salem, NC </h4>
+
+##### January 2017
+
++ Operated in a classroom of 7 children with disabilities from ages 2-5
+
++ Assisted in planning, preparation, and implementation of daily activities
+
++ Performed minor occupational therapy tasks
+
++ Completed IEP forms for students and assessed capabilities
+
++ Assisted in teaching children with physical limitations how to communicate (sign language, button pressing, etc.)
+
++ Invited to return, declined due to school
+
+<h4> Camp Counselor, Salem Academy- Winston-Salem, NC </h4>
+
+##### June 2016
+
++ Followed a rough daily schedule to effectively entertain children and provide educational structure
+
++ Introduced complex STEM topics to children in a simplistic and entertaining manner
+
+<center> <h3> Recent Part Time Jobs </h3> </center>
+
+<h4> Subway- Boone, NC </h4>
+
+##### August 2018- Present
+
++ Opening and closing duties, food preparation, etc.
+
+<h4> Cashier, Food services- Appalachian State University </h4>
+
+##### January 2018- Present
+
++ Stocking, closing duties, etc.
+
+<h4> Cashier, Juice Shop Thruway- Winston-Salem, NC </h4>
+
+##### March 2015- Present
+
++ Opening and closing duties
+
++ Shift manager (key holder)
+
+<h4> Sales Associate, Aerie (American Eagle Outfitters)- Hanes Mall: Winston-Salem, NC </h4>
+
+##### May 2017- June 2018
+
++ Opening and closing duties
+
++ Stocking
+
++ Awarded for customer compliments to managers 
+
+<center> <h3> Skills </h3> </center>
+
+**Languages**: Fluent in English, Intermediate Spanish
+
+**Computer**: Basic R Studio/R Markdown, Intermediate to Advanced Statistical Analysis, Microsoft Word, Microsoft Powerpoint
+
+**Miscellaneous**: Organization, Basic Music Knowledge/Composition, Money Management, Dance Knowledge
+
