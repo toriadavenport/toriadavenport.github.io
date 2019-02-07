@@ -2,7 +2,7 @@
 title: "About Me"
 ---
 
-<center><img src="DSC_0548.jpg" alt="Toria Davenport">
+<center><img src="DSC_0548.jpg" width= 450 alt="Toria Davenport">
 
 Hello!
 
